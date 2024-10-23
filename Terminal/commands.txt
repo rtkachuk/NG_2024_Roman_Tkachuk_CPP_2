@@ -1,0 +1,12 @@
+cd - use for moving (jumping) between folders in OS
+cd .. - use for exiting from folder (C:/git -> C:/)
+cd git - use for moving to folder git (it should exist), (C:/ -> C:/git)
+
+dir / ls - show list of the files in current folder
+
+mkdir git - create folder git in current folder
+rm -r git - remove folder git in current folder
+
+cp file1 file2 - copy file1 to file2
+rm file1 - remove file1
+mv file2 file1 - rename file2 to file1
